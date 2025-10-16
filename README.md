@@ -17,9 +17,9 @@ Added a new block to test the selection of node by random generation
 
 Notebooks:
 
-Source code:
+Source code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/757a5f3a914556c8ca534e8c8f3cf76a3ef4c398/Sourcecodes/simple-graph.ipynb
 
-Edited code:
+Edited code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/5e7ea19c04b575540684b250e8183befbdd27bfb/Module1/simple-graph.ipynb
 
 Video 3 — LangSmith Studio
 
@@ -43,13 +43,36 @@ Made neccessary changes for code to run and changed the tool which was used
 
 Notebooks:
 
-Source code:
+Source code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/757a5f3a914556c8ca534e8c8f3cf76a3ef4c398/Sourcecodes/chain.ipynb
 
-Edited code:
+Edited code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/5e7ea19c04b575540684b250e8183befbdd27bfb/Module1/chain.ipynb
 
-Video 5 — 
+Video 5 — Router
 
 Learnings:
+
+In this video I learned about about how the llm decide wether to call the tool or not, its visual representaion by seeing it taking different node route depeniding on its decision. This is provided by the studio
+
+
+<img width="2036" height="1017" alt="image" src="https://github.com/user-attachments/assets/a0015cad-b2f7-4e5a-b1bc-e8294edcb7f2" />
+
+Code Changes:
+
+Made neccessary changes for code to run and changed the tool which was used
+
+Notebooks:
+
+Source code: 
+
+Edited code: 
+
+Video 6 — 
+
+Learnings:
+
+I
+
+
 
 
 

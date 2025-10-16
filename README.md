@@ -30,9 +30,28 @@ There was no code in this video
 
 <img width="2018" height="1095" alt="image" src="https://github.com/user-attachments/assets/c6d4c1de-2f33-48af-818c-44a8251e8d63" />
 
+
 Video 4 — Chain
 
 Learnings:
+
+In this video we learned to build simple chain in graph using chat messages. We also learned implementing tool calling which we had learned before to graph.
+
+Code Changes:
+
+Made neccessary changes for code to run and changed the tool which was used
+
+Notebooks:
+
+Source code:
+
+Edited code:
+
+Video 5 — 
+
+Learnings:
+
+
 
 
 

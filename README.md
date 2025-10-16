@@ -51,7 +51,7 @@ Video 5 — Router
 
 Learnings:
 
-In this video I learned about about how the llm decide wether to call the tool or not, its visual representaion by seeing it taking different node route depeniding on its decision. This is provided by the studio
+In this video I learned about about how the llm decide whether to call the tool or not, its visual represantaion by seeing it taking different node route depending on its decision. This is provided by the studio
 
 
 <img width="2036" height="1017" alt="image" src="https://github.com/user-attachments/assets/a0015cad-b2f7-4e5a-b1bc-e8294edcb7f2" />
@@ -66,11 +66,29 @@ Source code:
 
 Edited code: 
 
-Video 6 — 
+Video 6 — Agents
 
 Learnings:
 
+In this video we learned about using tools recursively in other words instead of after the a tool gives output instead of going to end it comes back to caller till desired output is produced. We also included tracing in this code so that we can see the process and details in langsmith trace simila to what we did in langchain.
 I
+<img width="2012" height="1026" alt="Screenshot 2025-10-16 222531" src="https://github.com/user-attachments/assets/ff2c0979-6882-410a-88d0-250d74e2f3d2" />
+
+Code Changes:
+
+Made neccessary changes for code to run and changed the question
+
+Notebooks:
+
+Source code: 
+
+Edited code: 
+
+Video 7 — Agents
+
+Learnings:
+
+
 
 
 

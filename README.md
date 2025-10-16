@@ -88,6 +88,24 @@ Video 7 — Agents
 
 Learnings:
 
+In this video we just introduced memory to previous code by persistance. Checkpoints were implemented for memory using thread id to save the state. In this way memory was achieved using common thread.
+
+Code Changes:
+
+Made neccessary changes for code to run and added new function
+
+Notebooks:
+
+Source code: 
+
+Edited code: 
+
+Video 7 — Intro to Deployment
+
+Learnings:
+
+I
+
 
 
 

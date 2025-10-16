@@ -21,6 +21,19 @@ Source code:
 
 Edited code:
 
-Video 2 — 
+Video 3 — LangSmith Studio
 
 Learnings:
+
+In this video we used the studio interface in langsmith for first time. This is used for debugging and reviewing different cases, to get a better understanding of our structure at t gives a great visual repsentation etc.
+There was no code in this video
+
+<img width="2018" height="1095" alt="image" src="https://github.com/user-attachments/assets/c6d4c1de-2f33-48af-818c-44a8251e8d63" />
+
+Video 4 — Chain
+
+Learnings:
+
+
+
+

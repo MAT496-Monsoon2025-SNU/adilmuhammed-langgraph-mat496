@@ -62,9 +62,9 @@ Made neccessary changes for code to run and changed the tool which was used
 
 Notebooks:
 
-Source code: 
+Source code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/a07f800a72e487e709e38d07dd047902239bd746/Sourcecodes/router.ipynb
 
-Edited code: 
+Edited code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/a07f800a72e487e709e38d07dd047902239bd746/Module1/router.ipynb
 
 Video 6 — Agents
 
@@ -80,11 +80,11 @@ Made neccessary changes for code to run and changed the question
 
 Notebooks:
 
-Source code: 
+Source code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/a07f800a72e487e709e38d07dd047902239bd746/Sourcecodes/agent.ipynb
 
-Edited code: 
+Edited code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/a07f800a72e487e709e38d07dd047902239bd746/Module1/agent.ipynb
 
-Video 7 — Agents
+Video 7 — Agents with memory
 
 Learnings:
 
@@ -96,15 +96,15 @@ Made neccessary changes for code to run and added new function
 
 Notebooks:
 
-Source code: 
+Source code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/a07f800a72e487e709e38d07dd047902239bd746/Sourcecodes/agent-memory.ipynb
 
-Edited code: 
+Edited code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/a07f800a72e487e709e38d07dd047902239bd746/Module1/agent-memory.ipynb
 
-Video 7 — Intro to Deployment
+Video 7 — Intro to Deployment (Optional)
 
 Learnings:
 
-I
+This was just a optional video on intro to different aspects of final deployment of our agent. Cloud deployment was shown but was not able to do it because it was not free.
 
 
 

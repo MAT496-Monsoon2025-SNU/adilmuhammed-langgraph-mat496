@@ -106,6 +106,31 @@ Learnings:
 
 This was just a optional video on intro to different aspects of final deployment of our agent. Cloud deployment was shown but was not able to do it because it was not free.
 
+Module 1
+Video 1 — State Schema
+
+Learnings:
+
+In this video we primarily did an overview of what we are going to do in module 2 and then revisited creating basic graph from module 1 simple graph and then added some more details to it. We learned to implement dataclass of python for concise syntax for creating classes that are primarily used on storing data. We then also added pydantic state so that we can catch errors when passing keys to our state on runtime.
+
+Code Changes:
+
+Created a new node for on the  same level as node 2 and 3 called node 4 for empty mood.
+
+Created a new cell block at end to test pydantic state 
+
+Notebooks:
+
+Source code: 
+
+Edited code: 
+
+Video 2 — State Reducers
+
+Learnings:
+
+
+
 
 
 

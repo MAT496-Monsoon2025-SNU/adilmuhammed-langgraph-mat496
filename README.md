@@ -106,7 +106,8 @@ Learnings:
 
 This was just a optional video on intro to different aspects of final deployment of our agent. Cloud deployment was shown but was not able to do it because it was not free.
 
-Module 1
+Module 2
+
 Video 1 — State Schema
 
 Learnings:
@@ -128,6 +129,24 @@ Edited code:
 Video 2 — State Reducers
 
 Learnings:
+
+In this video we learned to update value of nodes on same level by appending instead of overwriting as that leads to problems. This was achieved by using reducers. Then we used custom reducers to handle edge cases. We then messagestate. We then did rewriting and removal of messages using id. This is very useful as we can now have full control of what stays in memory.
+
+Code Changes:
+
+Deleted more messages and made required changes for code to run
+
+Notebooks:
+
+Source code: 
+
+Edited code: 
+
+Video 3 — Multiple Schemas
+
+Learnings:
+
+I
 
 
 

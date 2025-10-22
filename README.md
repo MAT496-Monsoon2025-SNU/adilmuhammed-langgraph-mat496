@@ -106,6 +106,8 @@ Learnings:
 
 This was just a optional video on intro to different aspects of final deployment of our agent. Cloud deployment was shown but was not able to do it because it was not free.
 
+
+
 Module 2
 
 Video 1 — State Schema
@@ -146,7 +148,23 @@ Video 3 — Multiple Schemas
 
 Learnings:
 
-I
+In this video we used multiple schemas which is a very simple but useful tool to restrict what is present in input and output schemas of a graph and if we want them to be different we can apply input and output filter on our overall state.
+
+Code Changes:
+
+No changes were made to the code as this was just a code to show using multiple schemas and any changes would get in the way of demonstration
+
+Notebooks:
+
+Source code: 
+
+Edited code: 
+
+Video 4 — Trim and Filter Messages
+
+Learnings:
+
+
 
 
 

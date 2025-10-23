@@ -124,9 +124,9 @@ Created a new cell block at end to test pydantic state
 
 Notebooks:
 
-Source code: 
+Source code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/a2f93a40300da113eafb991983f41df584c6b9ef/Sourcecodes/state-schema.ipynb
 
-Edited code: 
+Edited code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/a2f93a40300da113eafb991983f41df584c6b9ef/Module2/state-schema.ipynb
 
 Video 2 — State Reducers
 
@@ -140,9 +140,9 @@ Deleted more messages and made required changes for code to run
 
 Notebooks:
 
-Source code: 
+Source code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/a2f93a40300da113eafb991983f41df584c6b9ef/Sourcecodes/state-reducers.ipynb
 
-Edited code: 
+Edited code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/a2f93a40300da113eafb991983f41df584c6b9ef/Module2/state-reducers.ipynb
 
 Video 3 — Multiple Schemas
 
@@ -156,9 +156,9 @@ No changes were made to the code as this was just a code to show using multiple 
 
 Notebooks:
 
-Source code: 
+Source code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/a2f93a40300da113eafb991983f41df584c6b9ef/Sourcecodes/multiple-schemas.ipynb
 
-Edited code: 
+Edited code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/a2f93a40300da113eafb991983f41df584c6b9ef/Module2/multiple-schemas.ipynb
 
 Video 4 — Trim and Filter Messages
 
@@ -172,9 +172,9 @@ I changed some deletion of messages, filtering of messages and then changed and 
 
 Notebooks:
 
-Source code: 
+Source code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/a2f93a40300da113eafb991983f41df584c6b9ef/Sourcecodes/trim-filter-messages.ipynb
 
-Edited code: 
+Edited code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/a2f93a40300da113eafb991983f41df584c6b9ef/Module2/trim-filter-messages.ipynb
 
 Video 5 — Chatbot w/ Summarizing Memory and Messages
 
@@ -188,13 +188,30 @@ The messages were changed and the message threshold for starting the summary was
 
 Notebooks:
 
-Source code: 
+Source code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/a2f93a40300da113eafb991983f41df584c6b9ef/Sourcecodes/chatbot-summarization.ipynb
 
-Edited code: 
+Edited code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/a2f93a40300da113eafb991983f41df584c6b9ef/Module2/chatbot-summarization.ipynb
 
 Video 6 — Chatbot w/ Summarizing Messages and External Memory
 
 Learnings:
+
+In this video we used Sqlite to set up external memory so that the lifetime of the saved messages and other states were not just the lifetime of the notebook kernel. Now even if we close the kernel we were able to verify that the information was stillsaved through Sqlite. W e then also viewed the summarization working in langgraph studio
+
+
+<img width="2028" height="1092" alt="image" src="https://github.com/user-attachments/assets/328975ab-2493-46e5-a060-dd5754e1dfeb" />
+
+Code Changes:
+
+The message threshold for starting the summary was changedand the context also was changes.
+
+Notebooks:
+
+Source code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/a2f93a40300da113eafb991983f41df584c6b9ef/Sourcecodes/chatbot-external-memory.ipynb
+
+Edited code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/a2f93a40300da113eafb991983f41df584c6b9ef/Module2/chatbot-external-memory.ipynb
+
+
 
 
 

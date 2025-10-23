@@ -180,6 +180,24 @@ Video 5 — Chatbot w/ Summarizing Memory and Messages
 
 Learnings:
 
+In this video we learned to set up summary where it will save summary of the messagestate and we can control on how many messages should the summary start. We can also do this while using thread so the messages doesn't have to be appended at same time for it to be summarized. The summary lives in its own state.
+
+Code Changes:
+
+The messages were changed and the message threshold for starting the summary was changed.
+
+Notebooks:
+
+Source code: 
+
+Edited code: 
+
+Video 6 — Chatbot w/ Summarizing Messages and External Memory
+
+Learnings:
+
+
+
 
 
 

@@ -71,7 +71,7 @@ Video 6 — Agents
 Learnings:
 
 In this video we learned about using tools recursively in other words instead of after the a tool gives output instead of going to end it comes back to caller till desired output is produced. We also included tracing in this code so that we can see the process and details in langsmith trace simila to what we did in langchain.
-I
+
 <img width="2012" height="1026" alt="Screenshot 2025-10-16 222531" src="https://github.com/user-attachments/assets/ff2c0979-6882-410a-88d0-250d74e2f3d2" />
 
 Code Changes:
@@ -100,13 +100,11 @@ Source code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-ma
 
 Edited code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/a07f800a72e487e709e38d07dd047902239bd746/Module1/agent-memory.ipynb
 
-Video 7 — Intro to Deployment (Optional)
+Video 8 — Intro to Deployment (Optional)
 
 Learnings:
 
-This was just a optional video on intro to different aspects of final deployment of our agent. Cloud deployment was shown but was not able to do it because it was not free.
-
-
+This was just a optional video on intro to different aspects of final deployment of our agent. Cloud deployment was shown but was not able to do it because it was not free.<br><br>
 
 Module 2
 
@@ -196,14 +194,14 @@ Video 6 — Chatbot w/ Summarizing Messages and External Memory
 
 Learnings:
 
-In this video we used Sqlite to set up external memory so that the lifetime of the saved messages and other states were not just the lifetime of the notebook kernel. Now even if we close the kernel we were able to verify that the information was stillsaved through Sqlite. W e then also viewed the summarization working in langgraph studio
+In this video we used Sqlite to set up external memory so that the lifetime of the saved messages and other states were not just the lifetime of the notebook kernel. Now even if we close the kernel we were able to verify that the information was stillsaved through Sqlite. We then also viewed the summarization working in langgraph studio
 
 
 <img width="2028" height="1092" alt="image" src="https://github.com/user-attachments/assets/328975ab-2493-46e5-a060-dd5754e1dfeb" />
 
 Code Changes:
 
-The message threshold for starting the summary was changedand the context also was changes.
+The message threshold for starting the summary was changed and the context also was changes.
 
 Notebooks:
 

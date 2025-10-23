@@ -104,7 +104,7 @@ Video 8 — Intro to Deployment (Optional)
 
 Learnings:
 
-This was just a optional video on intro to different aspects of final deployment of our agent. Cloud deployment was shown but was not able to do it because it was not free.<br><br>
+This was just a optional video on intro to different aspects of final deployment of our agent. Cloud deployment was shown but was not able to do it because it was not free.<br><br><br>
 
 Module 2
 

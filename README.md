@@ -164,6 +164,24 @@ Video 4 — Trim and Filter Messages
 
 Learnings:
 
+In this video we learned about editing messages to reduce our token usage which is very important to be cost efficient. First we revisited removing messages we used earlier. We can also filter what messages llm see without editing messagestate so that token usage go down but still preserve the messages we saved. There is also trim messages where we directly control token usage by number and have further control like strategy used and whether to allow partial message or not to be included.
+
+Code Changes:
+
+I changed some deletion of messages, filtering of messages and then changed and added trimming. Different token usage and strategies were tried for trimming messages.
+
+Notebooks:
+
+Source code: 
+
+Edited code: 
+
+Video 5 — Chatbot w/ Summarizing Memory and Messages
+
+Learnings:
+
+
+
 
 
 

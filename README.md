@@ -209,7 +209,31 @@ Source code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-ma
 
 Edited code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/a2f93a40300da113eafb991983f41df584c6b9ef/Module2/chatbot-external-memory.ipynb
 
+<br><br><br>
 
+Module 3
+
+Video 1 — Streaming
+
+Learnings:
+
+In this video I learned different aspects of streaming. First learned about two types of streaming modes updates and values where update just returns the last update after the node executes and values gives full state of the nodes of the graph. Then we can use certain keywords to isolate and stream the exact tokens we want. For example we can even stream just the tool calls.
+
+Code Changes:
+
+Made the required changes for code to run.
+
+Changed the content and added new cell blocks to test outputs.
+
+Notebooks:
+
+Source code: 
+
+Edited code: 
+
+Video 2 — Breakpoints
+
+Learnings:
 
 
 

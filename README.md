@@ -235,6 +235,27 @@ Video 2 — Breakpoints
 
 Learnings:
 
+In this video titled breakpoints we get introduced to human in the loop by using breakpoints. There are 3 main uses for human in the loop which are for approval from user, debugging the code and editing the graph state. Breakpoints can be implemented so that approval is needed for the execution to continue from one node to next. This breakpoint can be implemented at tool call etc.
+
+Code Changes:
+
+Made the required changes for code to run.
+
+Changed the tool called for approval to test if it works for other tools also
+
+Notebooks:
+
+Source code: 
+
+Edited code: 
+
+Video 3 — Editing State and Human Feedback
+
+Learnings:
+
+
+
+
 
 
 

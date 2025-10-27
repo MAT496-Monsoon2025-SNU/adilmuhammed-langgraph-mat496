@@ -265,7 +265,7 @@ Notebooks:
 
 Source code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/a19a7c4a091e8574acdb70d28a0256f5454b8a48/Sourcecodes/edit-state-human-feedback.ipynb
 
-Edited code: 
+Edited code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/c08557637f2631bcc7f4fffeab34d61fe9e0dd5f/Module3/edit-state-human-feedback.ipynb
 
 Video 4 — Dynamic Breakpoints
 
@@ -283,7 +283,7 @@ Notebooks:
 
 Source code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/a19a7c4a091e8574acdb70d28a0256f5454b8a48/Sourcecodes/dynamic-breakpoints.ipynb
 
-Edited code: 
+Edited code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/c08557637f2631bcc7f4fffeab34d61fe9e0dd5f/Module3/dynamic-breakpoints.ipynb
 
 Video 5 — Time Travel
 
@@ -301,7 +301,7 @@ Notebooks:
 
 Source code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/a19a7c4a091e8574acdb70d28a0256f5454b8a48/Sourcecodes/time-travel.ipynb
 
-Edited code: 
+Edited code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/6cfcae69be29122186fc88dd28b551446cc741d7/Module3/time-travel.ipynb
 
 
 

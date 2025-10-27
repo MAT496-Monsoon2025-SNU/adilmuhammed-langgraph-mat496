@@ -213,7 +213,7 @@ Edited code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-ma
 
 Module 3
 
-Video 1 — Streaming
+Video 1 — Streaming Interuptions
 
 Learnings:
 
@@ -227,9 +227,9 @@ Changed the content and added new cell blocks to test outputs.
 
 Notebooks:
 
-Source code: 
+Source code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/a19a7c4a091e8574acdb70d28a0256f5454b8a48/Sourcecodes/streaming-interruption.ipynb
 
-Edited code: 
+Edited code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/a19a7c4a091e8574acdb70d28a0256f5454b8a48/Module3/streaming-interruption.ipynb
 
 Video 2 — Breakpoints
 
@@ -245,9 +245,9 @@ Changed the tool called for approval to test if it works for other tools such as
 
 Notebooks:
 
-Source code: 
+Source code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/a19a7c4a091e8574acdb70d28a0256f5454b8a48/Sourcecodes/breakpoints.ipynb
 
-Edited code: 
+Edited code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/a19a7c4a091e8574acdb70d28a0256f5454b8a48/Module3/breakpoints.ipynb
 
 Video 3 — Editing State and Human Feedback
 
@@ -263,7 +263,7 @@ Changed the tool called for approval to test if it works for other tools such as
 
 Notebooks:
 
-Source code: 
+Source code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/a19a7c4a091e8574acdb70d28a0256f5454b8a48/Sourcecodes/edit-state-human-feedback.ipynb
 
 Edited code: 
 
@@ -281,13 +281,30 @@ Changed the function such that criteria for interuption is it interrupts if the 
 
 Notebooks:
 
-Source code: 
+Source code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/a19a7c4a091e8574acdb70d28a0256f5454b8a48/Sourcecodes/dynamic-breakpoints.ipynb
 
 Edited code: 
 
 Video 5 — Time Travel
 
 Learnings:
+
+In this video we visited the last use of human in the loop debugging. We first went over some actions such as browsing history of state, replaying the states of the graph and forking where run same step but with different input. In forking instead of appending when updating state we replaced the input by using id. Then went over the same actions by langgraph api. So when we use these actions together we can go back to checkpoints and run from any checkpoint we want achieving time travel. This can also be done in langraph studio in an easy manner. 
+
+Code Changes:
+
+Made the required changes for code to run.
+
+Changed the tool called for approval to test if it works for other tools such as divide.
+
+Notebooks:
+
+Source code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/a19a7c4a091e8574acdb70d28a0256f5454b8a48/Sourcecodes/time-travel.ipynb
+
+Edited code: 
+
+
+
 
 
 

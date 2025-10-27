@@ -241,7 +241,7 @@ Code Changes:
 
 Made the required changes for code to run.
 
-Changed the tool called for approval to test if it works for other tools also
+Changed the tool called for approval to test if it works for other tools such as divide.
 
 Notebooks:
 
@@ -252,6 +252,28 @@ Edited code:
 Video 3 — Editing State and Human Feedback
 
 Learnings:
+
+In this video we visited the third use for human in the loop that is editing. We use the same steps we used in the previous video as this also uses breakpoints but now we also use graph.update_state() to edit or append the message we passed. In the studio the editing is direct as it is inbuilt. We  can also manually add interuptions in studio by clicking the icon on left side of node. Then we saw how we can cleverly treat one node as dummy node and make slight change to graph structure such that the user can essentially pass any message they want rather than it being passed in the python code.
+
+Code Changes:
+
+Made the required changes for code to run.
+
+Changed the tool called for approval to test if it works for other tools such as divide and add also.
+
+Notebooks:
+
+Source code: 
+
+Edited code: 
+
+Video 4 — Dynamic Breakpoints
+
+Learnings:
+
+
+
+
 
 
 

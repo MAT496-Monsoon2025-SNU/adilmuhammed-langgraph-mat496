@@ -271,6 +271,26 @@ Video 4 — Dynamic Breakpoints
 
 Learnings:
 
+In this video i learned about dynamic breakpoint where we can add condition on which the interruption occurs so now we have control on interuptions such that if the input meets our specific criteria the interruption occurs. But the graph will get stuck at that stage so we need to use update so that the new input passes the criteria we placed.
+
+Code Changes:
+
+Made the required changes for code to run.
+
+Changed the function such that criteria for interuption is it interrupts if the input contains badword.
+
+Notebooks:
+
+Source code: 
+
+Edited code: 
+
+Video 5 — Time Travel
+
+Learnings:
+
+
+
 
 
 

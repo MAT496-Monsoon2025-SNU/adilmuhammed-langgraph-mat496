@@ -329,6 +329,26 @@ Video 2 —  Sub-graphs
 
 Learnings:
 
+In this video I learned about how we can make graphs into subgraphs of a another graph thereby making it parent graph. In the example code we created the graphs question summarization and failure analysis and used them as subgraphs. The subgraphs run in parallel here. We use subgraphs when we want different states in our overall graph.
+
+<img width="2029" height="1104" alt="Screenshot 2025-10-29 222220" src="https://github.com/user-attachments/assets/e4d044db-66c7-4b04-9085-7a5f15c82836" />
+<br>
+
+Code Changes:
+
+Made the required changes for code to run.
+
+Didnt make any other major changes as oppurtunity to do so was very little in this code.
+
+Notebooks:
+
+Source code: 
+
+Edited code: 
+
+Video 2 —  Map-reduce
+
+Learnings:
 
 
 

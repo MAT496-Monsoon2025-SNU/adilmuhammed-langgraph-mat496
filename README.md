@@ -303,6 +303,35 @@ Source code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-ma
 
 Edited code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/6cfcae69be29122186fc88dd28b551446cc741d7/Module3/time-travel.ipynb
 
+<br><br><br>
+
+Module 4
+
+Video 1 — Parallelization
+
+Learnings:
+
+In this video I learned about how run nodes parallelly in the same step ie fanning out from one node then fanning in in a node in the next step. If we just build the graph and try execute the code having parallelly running node in a step it will return error but we can work around this by adding reducer which appends the updates to list. Then we looked at how we can set the order of these node execution in same step by adding reducer. Then we looked on an example of how we can implement this practically by doing web search and search Wikipedia parallelly.
+
+Code Changes:
+
+Made the required changes for code to run.
+
+When fanning out added a 3rd route also. This showed the order of appending in case with more than 2 way fanning out.
+
+Notebooks:
+
+Source code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/44c26756f3138239a9261216b7cf94ff53149968/Sourcecodes/parallelization.ipynb
+
+Edited code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/44c26756f3138239a9261216b7cf94ff53149968/Module4/parallelization.ipynb
+
+Video 2 —  Sub-graphs
+
+Learnings:
+
+
+
+
 
 
 

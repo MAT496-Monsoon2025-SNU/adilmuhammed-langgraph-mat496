@@ -346,11 +346,27 @@ Source code:
 
 Edited code: 
 
-Video 2 —  Map-reduce
+Video 3 —  Map-reduce
 
 Learnings:
 
+In this video we looked at map reduce which is a technique to implement parallelization to increase efficiency. This can be seen as two parts that is first divide a task into smaller task and second part is coming to the result from all the completed tasks. First part is called map and second part is called reduce. In the how we used this was we parallelly generated jokes for different topics. My edited code used it a little differently. As a side note we saw how we can create conditional edge also. 
 
+Code Changes:
+
+Made the required changes for code to run.
+
+Changed the code such that instead of generating jokes parellelly remarks about a subject are made and then best remark was selected in place of best joke. Subject was given as political leaders.
+
+Notebooks:
+
+Source code: 
+
+Edited code: 
+
+Video 4 —  Research Assistant
+
+Learnings:
 
 
 

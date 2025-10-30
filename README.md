@@ -342,9 +342,9 @@ Didnt make any other major changes as oppurtunity to do so was very little in th
 
 Notebooks:
 
-Source code: 
+Source code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/dac65bde2f8b0f3153323bcc867b60218899a656/Sourcecodes/sub-graph.ipynb
 
-Edited code: 
+Edited code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/dac65bde2f8b0f3153323bcc867b60218899a656/Module4/sub-graph.ipynb
 
 Video 3 —  Map-reduce
 
@@ -360,15 +360,29 @@ Changed the code such that instead of generating jokes parellelly remarks about 
 
 Notebooks:
 
-Source code: 
+Source code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/dac65bde2f8b0f3153323bcc867b60218899a656/Sourcecodes/map-reduce.ipynb
 
-Edited code: 
+Edited code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/dac65bde2f8b0f3153323bcc867b60218899a656/Module4/map-reduce.ipynb
 
 Video 4 —  Research Assistant
 
 Learnings:
 
+In this video we looked at how we can create a research assistant. First of all a research assistant is preferred over general llm in cases where we want source to be specific or when the output should be in particular format. In this code we created a simulation where there is one expert and multiple interviewers. The sources related to the question were made available just to the expert where the sources are Wikipedia search and Web search run parallelly and appended to list(otherwise it would result in error as we learned in vid 1) from the question by interviewer. We are using human in the loop to select analysts. We also use map reduce to run these interviews is parallel. Here it becomes clear all the usefulness of the tools we learned earlier. In the image below we can clearly see the entire program take less time than just the first 3 chains individually because we implement parallelization.
 
+<img width="2042" height="1100" alt="Screenshot 2025-10-30 203210" src="https://github.com/user-attachments/assets/149d263b-a1cf-45a3-862e-99d019fbb8e3" />
+
+Code Changes:
+
+Made the required changes for code to run.
+
+Changed the context from which the expert is created as well as the analysts.
+
+Notebooks:
+
+Source code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/dac65bde2f8b0f3153323bcc867b60218899a656/Sourcecodes/parallelization.ipynb
+
+Edited code: https://github.com/MAT496-Monsoon2025-SNU/adilmuhammed-langgraph-mat496/blob/dac65bde2f8b0f3153323bcc867b60218899a656/Module4/research-assistant.ipynb
 
 
 
